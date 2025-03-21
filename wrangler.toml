@@ -4,7 +4,7 @@ account_id = "6cdbcdd54c71b9667ebb6c7b578fdddc"
 compatibility_date = "2022-11-20"
 
 # Uncomment if you don’t have a custom domain.
-# workers_dev = true
+workers_dev = true
 
 # For custom domain — comment out if you don’t have a custom domain.
 #route = "opensheet.elk.sh/*"
