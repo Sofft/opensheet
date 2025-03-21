@@ -9,7 +9,7 @@ async function handleRequest(event) {
     return new Response("", {
       status: 302,
       headers: {
-        location: "https://github.com/benborgers/opensheet#readme",
+        location: "https://silavetra.com",
       },
     });
   }
